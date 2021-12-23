@@ -1,4 +1,3 @@
- https://github.com/govex/COVID-19/blob/master/data_tables/vaccine_data/global_data/vaccine_data_global.csv
 Province_State,Country_Region,Date,Doses_admin,People_partially_vaccinated,People_fully_vaccinated,Report_Date_String,UID
 ,Afghanistan,2021-12-16,5228706,4397449,3566192,2021-12-16,4
 ,Albania,2021-12-16,2216402,1108572,998326,2021-12-16,8
