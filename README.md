@@ -21,8 +21,8 @@ The project uses John Hopkins University Covid-19 datasets and related datasets 
 * The selected countries are Australia, New Zealand, USA, UK, Italy, Israel, Brazil, South Africa, Vietnam. 
 
 4.	**Hypothesis:**
-•	**The alternative hypothesis (Ha)** is that there is a significant correlation between vaccination status (vaccinated or unvaccinated) and death for Covid patients.
-•	**The null hypothesis (H0)** is that there is not a significant correlation between vaccination status (vaccinated or unvaccinated) and death for Covid patients.
+* **The alternative hypothesis (Ha)** is that there is a significant correlation between vaccination status (vaccinated or unvaccinated) and death for Covid patients.
+* **The null hypothesis (H0)** is that there is not a significant correlation between vaccination status (vaccinated or unvaccinated) and death for Covid patients.
 
 
 5.	**Methodology:**
@@ -71,7 +71,7 @@ The visualisations used are:
 * If we look at South Africa, we can see the percentage of the population that is fully vaccinated is less than half that of Australia,  
   even though based on the previous bar chart, the number of vaccinated individuals was relatively close to that of Australia.
 * This again, can be explained by the difference in population number, with South Africa reaching over 59 million and Australia with less than half that, at 25 million.  
-* 
+
  
 ![image](https://user-images.githubusercontent.com/89948865/148158413-fa02955e-1760-4fd5-a48f-8bb91e653c44.png)
 
