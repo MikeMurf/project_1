@@ -27,11 +27,11 @@ The project uses John Hopkins University Covid-19 datasets and related datasets 
 
 5.	**Methodology:**
 
-•	The project commenced with a one-off download of a dataset covering some 32 days of data from the John Hopkins University Covid datasets identified above.
-•	It then evolved to dynamically downloading the John Hopkins University Covid Time Series datasets using URLS calls and Wget so that  
+* The project commenced with a one-off download of a dataset covering some 32 days of data from the John Hopkins University Covid datasets identified above.
+* It then evolved to dynamically downloading the John Hopkins University Covid Time Series datasets using URLS calls and Wget so that  
         it picks up the most recent data when run.
-•	It also sourced mortality and vaccination datasets from the sources identified in the “Project datasets” section.
-•	Further analysis needs to be done to fully complete the assessments we set out to do. 
+* It also sourced mortality and vaccination datasets from the sources identified in the “Project datasets” section.
+* Further analysis needs to be done to fully complete the assessments we set out to do. 
 
 
 5.	**Visualisations / Analysis:**
