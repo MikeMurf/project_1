@@ -21,8 +21,8 @@ The project uses John Hopkins University Covid-19 datasets and related datasets 
 * The selected countries are Australia, New Zealand, USA, UK, Italy, Israel, Brazil, South Africa, Vietnam. 
 
 4.	**Hypothesis:**
-•	The alternative hypothesis (Ha) is that there is a significant correlation between vaccination status (vaccinated or unvaccinated) and death for Covid patients.
-•	The null hypothesis (H0) is that there is not a significant correlation between vaccination status (vaccinated or unvaccinated) and death for Covid patients.
+•	**The alternative hypothesis (Ha)** is that there is a significant correlation between vaccination status (vaccinated or unvaccinated) and death for Covid patients.
+•	**The null hypothesis (H0)** is that there is not a significant correlation between vaccination status (vaccinated or unvaccinated) and death for Covid patients.
 
 
 5.	**Methodology:**
@@ -36,13 +36,13 @@ The project uses John Hopkins University Covid-19 datasets and related datasets 
 
 5.	**Visualisations / Analysis:**
 The visualisations used are:
-•	* Pie charts vaccinated vs unvaccinated per country					
-•	* Bar chart vaccination rates per country						
-•	* Bar chart total Covid cases per country						
-•	* Bar chart total Covid hospitalisations per country (if possible)				
-•	* Bar chart total Covid deaths per country						
-•	* Bar chart total mortality rates - per 100,000 population per country				
-•	* Bar chart total mortality rates - case / fatality ratio per country							
+* Pie charts vaccinated vs unvaccinated per country					
+* Bar chart vaccination rates per country						
+* Bar chart total Covid cases per country						
+* Bar chart total Covid hospitalisations per country (if possible)				
+* Bar chart total Covid deaths per country						
+* Bar chart total mortality rates - per 100,000 population per country				
+* Bar chart total mortality rates - case / fatality ratio per country							
 
 6.	**Research Questions: Answers**
 
