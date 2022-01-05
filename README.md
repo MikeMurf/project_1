@@ -94,5 +94,31 @@ o	Covid cases – Case Fatality Ratio
 ![image](https://user-images.githubusercontent.com/89948865/148158764-031814da-8e71-4818-970d-fd0bd78a9450.png)
 
 
+	The Case Fatality Ratio shows a completely different picture. Australia, Israel and particularly New Zealand show the lowest number of fatalities for the number of cases. These countries all quickly adopted lockdowns and ramped up vaccination rates with commensurate positive outcomes.
+	Brazil is by far the worst performed in respect of this measure with South Africa not far behind. Brazil has been notorious for basically ignoring the pandemic and it is reflected in their results. South Africa has an extremely low vaccination rate compared to other countries as show in the pie charts above. It also is a developing country with significant between those who have access to healthcare and those that do not. 
+	The US and the UK rank in the middle in terms of this measure. The respective leaders of these countries were slow to respond to the pandemic with commensurate lower result than the best performing countries on this measure. 
+
+
+•	Research Questions: Conclusions / Implications
+
+o	Our analysis is a work in progress. It shows that there is a relationship between vaccination status (vaccinated or unvaccinated) and death for Covid patients.
+o	At this stage, we would have to say that there is a relationship between Covid vaccination status and Deaths but that it is not the significant relationship that might have been expected.
+o	Further analysis of the datasets and further statistical analysis needs to be done to quantify the extent of this relationship.
+o	At this stage, we would also have to say that the null hypothesis (H0) - that there is not a significant correlation between vaccination status (vaccinated or unvaccinated) and death for Covid patients prevails.
+
+6.	Project Datasets: 
+  The datasets for the project can be found at the following links.
+	“JHU – Time Series Daily Reports”
+https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv
+
+“JHU – Daily Reports”
+https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports
+
+JHU link on how to use their data – accesses cases, vaccinations, and testing data
+https://coronavirus.jhu.edu/about/how-to-use-our-data
+		“World population data”
+https://www.worldometers.info/world-population/population-by-country/
+
+
 
 https://docs.google.com/document/d/1tC0OtRsRGQUy0AhaMtuViVm6LKWjVgCT8R2ZFsUumcI/edit?usp=sharing
