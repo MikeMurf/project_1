@@ -70,6 +70,14 @@ comparison.
 	If we look at South Africa, we can see the percentage of the population that is fully vaccinated is less than half that of Australia, even though based on the previous bar chart, the number of vaccinated individuals was relatively close to that of Australia.
 	This again, can be explained by the difference in population number, with South Africa reaching over 59 million and Australia with less than half that, at 25 million.
  
+![image](https://user-images.githubusercontent.com/89948865/148158413-fa02955e-1760-4fd5-a48f-8bb91e653c44.png)
+
+![image](https://user-images.githubusercontent.com/89948865/148158461-aa544bc7-71e0-4b24-8aec-253dabbec7b6.png)
+
+	 We can further visualise these findings looking at these pie charts:
+	 As you can see, a significant proportion of the population in 
+Australia (over 75% in fact), are fully vaccinated compared to South Africa, where a whopping 74% of the population are actually unvaccinated.
+
 
 
 https://docs.google.com/document/d/1tC0OtRsRGQUy0AhaMtuViVm6LKWjVgCT8R2ZFsUumcI/edit?usp=sharing
