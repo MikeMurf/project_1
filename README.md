@@ -78,6 +78,11 @@ comparison.
 	 As you can see, a significant proportion of the population in 
 Australia (over 75% in fact), are fully vaccinated compared to South Africa, where a whopping 74% of the population are actually unvaccinated.
 
+![image](https://user-images.githubusercontent.com/89948865/148158564-3251dc37-02b4-43ff-bb28-a40f87b780e2.png)
+
+
+	Total Covid Deaths are highest in countries which were slow to introduce vaccinations and other containment measures like lockdowns (US and UK in our selected set) and are lowest in countries that were quick to introduce lockdowns and ramp up vaccination roll out (in particular New Zealand is the standout with Australia not far behind).
+
 
 
 https://docs.google.com/document/d/1tC0OtRsRGQUy0AhaMtuViVm6LKWjVgCT8R2ZFsUumcI/edit?usp=sharing
