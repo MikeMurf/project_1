@@ -8,7 +8,7 @@
 
 2.	**Project Description:
 The project uses John Hopkins University Covid-19 datasets and related datasets to determine the statistical significance of the relationship between being vaccinated or unvaccinated and the mortality rate from Covid_19.**
-
+  
 
 3.	**Research Questions:**
 * **What is the relationship between “unvaccinated” Covid patients versus “vaccinated” Covid patients for the following categories in selected countries?**
