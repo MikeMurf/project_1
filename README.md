@@ -33,10 +33,22 @@ o	Mortality rates – case / fatality ratio
 •	Further analysis needs to be done to fully complete the assessments we set out to do. 
 
 
+5.	Visualisations / Analysis:
+The visualisations used are:
+•	Pie charts vaccinated vs unvaccinated per country					
+•	Bar chart vaccination rates per country						
+•	Bar chart total Covid cases per country						
+•	Bar chart total Covid hospitalisations per country (if possible)				
+•	Bar chart total Covid deaths per country						
+•	Bar chart total mortality rates - per 100,000 population per country				
+•	Bar chart total mortality rates - case / fatality ratio per country							
 
+6.	Research Questions: Answers / Findings / Conclusions
 
+•	What is the relationship between “unvaccinated” Covid patients versus “vaccinated” Covid patients for the following categories in selected countries?
 
-
+o	Covid vaccination rates per country
+	Covid vaccination rates vary widely with higher vaccination rates in developed countries and lower vaccination rates in less developed countries.
 
 ![image](https://user-images.githubusercontent.com/89948865/148156699-bdea8146-c98a-4654-9357-711293847804.png)
 
@@ -45,6 +57,8 @@ Vaccinated People by Country”:
 	The two countries with highest fully vaccinated numbers are US and Brazil
 	The lowest numbers are New Zealand, Israel, South Africa, and Australia
 	Simply based on this visualisation, we could be inclined to conclude that Brazil and the US are the most vaccinated countries in the world with the lowest numbers of fully vaccinated people being from New Zealand, Israel, South Africa, as well as Australia.
+
+
 
 
 https://docs.google.com/document/d/1tC0OtRsRGQUy0AhaMtuViVm6LKWjVgCT8R2ZFsUumcI/edit?usp=sharing
