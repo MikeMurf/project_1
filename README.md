@@ -1,14 +1,14 @@
 # project_1
 
-1.	Team Members:   		Erica Hoshino
-                        Tuflika Putri
-                        John Nasiakos
-                        Mike Murphy
+1.	**Team Members:**   		Erica Hoshino
+                                        Tuflika Putri
+                                        John Nasiakos
+                                        Mike Murphy
 
-2.	Project Description:
-The project uses John Hopkins University Covid-19 datasets and related datasets to determine the statistical significance of the relationship between being vaccinated or unvaccinated and the mortality rate from Covid_19.
+2.	**Project Description:
+The project uses John Hopkins University Covid-19 datasets and related datasets to determine the statistical significance of the relationship between being vaccinated or unvaccinated and the mortality rate from Covid_19.**
 
-3.	Research Questions:
+3.	**Research Questions:**
 •	What is the relationship between “unvaccinated” Covid patients versus “vaccinated” Covid patients for the following categories in selected countries?
 o	Covid vaccination rates per country
 o	Total Covid cases
@@ -20,12 +20,12 @@ o	Mortality rates – case / fatality ratio
 •	What countries / areas will be least impacted?
 •	The selected countries are Australia, New Zealand, USA, UK, Italy, Israel, Brazil, South Africa, Vietnam. 
 
-4.	Hypothesis:
+4.	**Hypothesis:**
 •	The alternative hypothesis (Ha) is that there is a significant correlation between vaccination status (vaccinated or unvaccinated) and death for Covid patients.
 •	The null hypothesis (H0) is that there is not a significant correlation between vaccination status (vaccinated or unvaccinated) and death for Covid patients.
 
 
-5.	Methodology:
+5.	**Methodology:**
 
 •	The project commenced with a one-off download of a dataset covering some 32 days of data from the John Hopkins University Covid datasets identified above.
 •	It then evolved to dynamically downloading the John Hopkins University Covid Time Series datasets using URLS calls and Wget so that it picks up the most recent data when run.
@@ -33,7 +33,7 @@ o	Mortality rates – case / fatality ratio
 •	Further analysis needs to be done to fully complete the assessments we set out to do. 
 
 
-5.	Visualisations / Analysis:
+5.	**Visualisations / Analysis:**
 The visualisations used are:
 •	Pie charts vaccinated vs unvaccinated per country					
 •	Bar chart vaccination rates per country						
@@ -43,7 +43,7 @@ The visualisations used are:
 •	Bar chart total mortality rates - per 100,000 population per country				
 •	Bar chart total mortality rates - case / fatality ratio per country							
 
-6.	Research Questions: Answers / Findings / Conclusions
+6.	**Research Questions: Answers**
 
 •	What is the relationship between “unvaccinated” Covid patients versus “vaccinated” Covid patients for the following categories in selected countries?
 
@@ -99,14 +99,14 @@ o	Covid cases – Case Fatality Ratio
 	The US and the UK rank in the middle in terms of this measure. The respective leaders of these countries were slow to respond to the pandemic with commensurate lower result than the best performing countries on this measure. 
 
 
-•	Research Questions: Conclusions / Implications
+•	**Research Questions: Conclusions / Implications**
 
 o	Our analysis is a work in progress. It shows that there is a relationship between vaccination status (vaccinated or unvaccinated) and death for Covid patients.
 o	At this stage, we would have to say that there is a relationship between Covid vaccination status and Deaths but that it is not the significant relationship that might have been expected.
 o	Further analysis of the datasets and further statistical analysis needs to be done to quantify the extent of this relationship.
 o	At this stage, we would also have to say that the null hypothesis (H0) - that there is not a significant correlation between vaccination status (vaccinated or unvaccinated) and death for Covid patients prevails.
 
-6.	Project Datasets: 
+6.	**Project Datasets:** 
   The datasets for the project can be found at the following links.
 	“JHU – Time Series Daily Reports”
 https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv
