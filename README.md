@@ -70,7 +70,8 @@ The visualisations used are:
   which only has 5 million in comparison.
 * If we look at South Africa, we can see the percentage of the population that is fully vaccinated is less than half that of Australia,  
   even though based on the previous bar chart, the number of vaccinated individuals was relatively close to that of Australia.
-* This again, can be explained by the difference in population number, with South Africa reaching over 59 million and Australia with less than half that, at 25 million.
+* This again, can be explained by the difference in population number, with South Africa reaching over 59 million and Australia with less than half that, at 25 million.  
+* 
  
 ![image](https://user-images.githubusercontent.com/89948865/148158413-fa02955e-1760-4fd5-a48f-8bb91e653c44.png)
 
