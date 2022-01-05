@@ -11,14 +11,14 @@ The project uses John Hopkins University Covid-19 datasets and related datasets 
 3.	**Research Questions:**
 •	**What is the relationship between “unvaccinated” Covid patients versus “vaccinated” Covid patients for the following categories in selected countries?**
 * Covid vaccination rates per country
-o	* Total Covid cases
-o	* Total Covid hospitalisations
-o	* Total Covid deaths
-o	* Mortality rates - per 100,000 population
-o	* Mortality rates – case / fatality ratio
-•	* What countries / areas will be most impacted?	 
-•	* What countries / areas will be least impacted?
-•	* The selected countries are Australia, New Zealand, USA, UK, Italy, Israel, Brazil, South Africa, Vietnam. 
+* Total Covid cases
+* Total Covid hospitalisations
+* Total Covid deaths
+* Mortality rates - per 100,000 population
+* Mortality rates – case / fatality ratio
+* What countries / areas will be most impacted?	 
+* What countries / areas will be least impacted?
+* The selected countries are Australia, New Zealand, USA, UK, Italy, Israel, Brazil, South Africa, Vietnam. 
 
 4.	**Hypothesis:**
 •	The alternative hypothesis (Ha) is that there is a significant correlation between vaccination status (vaccinated or unvaccinated) and death for Covid patients.
