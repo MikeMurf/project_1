@@ -83,6 +83,16 @@ Australia (over 75% in fact), are fully vaccinated compared to South Africa, whe
 
 	Total Covid Deaths are highest in countries which were slow to introduce vaccinations and other containment measures like lockdowns (US and UK in our selected set) and are lowest in countries that were quick to introduce lockdowns and ramp up vaccination roll out (in particular New Zealand is the standout with Australia not far behind).
 
+o	Covid cases – Deaths per 100,000 People per Country
+
+![image](https://user-images.githubusercontent.com/89948865/148158707-47cfae9d-d13e-4dbb-9124-6bd1d66e8a41.png)
+
+	Total Covid Deaths per 100,000 people are similarly highest in countries which were slow to introduce vaccinations and other containment measures like lockdowns (US and UK in our selected set) and are lowest in countries that were quick to introduce lockdowns and ramp up vaccination roll out (in particular New Zealand is the standout with Australia not far behind).
+
+o	Covid cases – Case Fatality Ratio
+
+![image](https://user-images.githubusercontent.com/89948865/148158764-031814da-8e71-4818-970d-fd0bd78a9450.png)
+
 
 
 https://docs.google.com/document/d/1tC0OtRsRGQUy0AhaMtuViVm6LKWjVgCT8R2ZFsUumcI/edit?usp=sharing
