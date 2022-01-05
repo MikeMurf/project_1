@@ -5,8 +5,10 @@
                                         John Nasiakos
                                         Mike Murphy
 
+
 2.	**Project Description:
 The project uses John Hopkins University Covid-19 datasets and related datasets to determine the statistical significance of the relationship between being vaccinated or unvaccinated and the mortality rate from Covid_19.**
+
 
 3.	**Research Questions:**
 •	**What is the relationship between “unvaccinated” Covid patients versus “vaccinated” Covid patients for the following categories in selected countries?**
@@ -19,6 +21,7 @@ The project uses John Hopkins University Covid-19 datasets and related datasets 
 * What countries / areas will be most impacted?	 
 * What countries / areas will be least impacted?
 * The selected countries are Australia, New Zealand, USA, UK, Italy, Israel, Brazil, South Africa, Vietnam. 
+
 
 4.	**Hypothesis:**
 * **The alternative hypothesis (Ha)** is that there is a significant correlation between vaccination status (vaccinated or unvaccinated) and death for Covid patients.
@@ -43,6 +46,7 @@ The visualisations used are:
 * Bar chart total Covid deaths per country						
 * Bar chart total mortality rates - per 100,000 population per country				
 * Bar chart total mortality rates - case / fatality ratio per country							
+
 
 6.	**Research Questions: Answers**
 
@@ -113,6 +117,7 @@ The visualisations used are:
   that might have been expected.
 * Further analysis of the datasets and further statistical analysis needs to be done to quantify the extent of this relationship.
 * At this stage, we would also have to say that the null hypothesis (H0) - that there is not a significant correlation between vaccination status (vaccinated or unvaccinated) and death for Covid patients prevails.
+
 
 6.	**Project Datasets:** 
 	
