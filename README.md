@@ -10,7 +10,7 @@ The project uses John Hopkins University Covid-19 datasets and related datasets 
 
 3.	**Research Questions:**
 •	**What is the relationship between “unvaccinated” Covid patients versus “vaccinated” Covid patients for the following categories in selected countries?**
-o	* Covid vaccination rates per country
+* Covid vaccination rates per country
 o	* Total Covid cases
 o	* Total Covid hospitalisations
 o	* Total Covid deaths
