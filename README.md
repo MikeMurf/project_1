@@ -58,6 +58,7 @@ Vaccinated People by Country”:
 	The lowest numbers are New Zealand, Israel, South Africa, and Australia
 	Simply based on this visualisation, we could be inclined to conclude that Brazil and the US are the most vaccinated countries in the world with the lowest numbers of fully vaccinated people being from New Zealand, Israel, South Africa, as well as Australia.
 
+![image](https://user-images.githubusercontent.com/89948865/148158227-921b34f3-7f20-429f-a5e4-7059eb3a980e.png)
 
 
 
