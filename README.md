@@ -61,5 +61,15 @@ Vaccinated People by Country”:
 ![image](https://user-images.githubusercontent.com/89948865/148158227-921b34f3-7f20-429f-a5e4-7059eb3a980e.png)
 
 
+	However, if we look at the bar chart for the actual percentage of the
+population that is fully vaccinated per country:
+	We can see that the countries with the apparently higher number of vaccinated individuals like the US and Brazil (from the previous bar chart) have a lower bar compared to New Zealand and Australia.
+	This could initially appear as a discrepancy, but once we consider the difference in population number between the countries, it can be explained.
+	 The US population is close to 330 million compared to the Australian population, which has a little over 25 million, and New Zealand’s population, which only has 5 million in 
+comparison.
+	If we look at South Africa, we can see the percentage of the population that is fully vaccinated is less than half that of Australia, even though based on the previous bar chart, the number of vaccinated individuals was relatively close to that of Australia.
+	This again, can be explained by the difference in population number, with South Africa reaching over 59 million and Australia with less than half that, at 25 million.
+ 
+
 
 https://docs.google.com/document/d/1tC0OtRsRGQUy0AhaMtuViVm6LKWjVgCT8R2ZFsUumcI/edit?usp=sharing
